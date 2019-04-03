@@ -1,0 +1,15 @@
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\bin\Debug\MailToGmail.exe.config
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\bin\Debug\MailToGmail.exe
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\bin\Debug\MailToGmail.pdb
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\obj\Debug\MailToGmail.csprojAssemblyReference.cache
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\obj\Debug\MailToGmail.EmailSender.resources
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\obj\Debug\MailToGmail.SignEmail.resources
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\obj\Debug\MailToGmail.Properties.Resources.resources
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\obj\Debug\MailToGmail.SignUp.resources
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\obj\Debug\MailToGmail.SingPassword.resources
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\obj\Debug\MailToGmail.csproj.GenerateResource.cache
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\obj\Debug\MailToGmail.csproj.CoreCompileInputs.cache
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\obj\Debug\MailToGmail.csproj.CopyComplete
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\obj\Debug\MailToGmail.exe
+C:\Users\wojci\source\repos\Gmail\MailToGmail\MailToGmail\obj\Debug\MailToGmail.pdb
